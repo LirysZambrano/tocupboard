@@ -25,7 +25,6 @@ La tienda cuenta con integración de APIs, simulación de pasarela de pagos y di
 
 5. **Ejecución del Sitio**:
    - El sitio está desplegado en un servidor con la dirección `https://tocupboard.infinityfreeapp.com/`.
-   - Puedes acceder a la administración del sitio utilizando las credenciales proporcionadas por el administrador.
 
 ## Información Adicional
 Este proyecto forma parte del reto final para la implementación de DevSecOps en un entorno WordPress. 
